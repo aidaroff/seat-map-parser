@@ -4,280 +4,280 @@
             "cabin": "first",
             "number": "1A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "first",
             "number": "1B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "first",
             "number": "1E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "first",
             "number": "1F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "first",
             "number": "2A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "first",
             "number": "2B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "first",
             "number": "2E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "first",
             "number": "2F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "7A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Bathroom"
         },
         {
             "cabin": "economy",
             "number": "7B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Bathroom"
         },
         {
             "cabin": "economy",
             "number": "7C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Bathroom"
         },
         {
             "cabin": "economy",
             "number": "7D",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "7E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "7F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "8A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "8B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "8C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "8D",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "8E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "8F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "9A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "9B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "9C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "9D",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "9E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "9F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "10A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "10B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "10C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "10D",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "10E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "10F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "11A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "11B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "11C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "11D",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "11E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "11F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "12A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "12B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
@@ -293,7 +293,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -309,21 +309,21 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "12E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "12F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
@@ -339,7 +339,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -355,7 +355,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -371,7 +371,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -387,7 +387,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -403,7 +403,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -419,7 +419,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -435,7 +435,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -451,7 +451,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -467,7 +467,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -483,7 +483,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -499,7 +499,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -515,91 +515,91 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "20A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "20B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "20C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "20D",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "20E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "20F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "21A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "21B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "21C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "21D",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "21E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "21F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
@@ -615,7 +615,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -631,7 +631,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -647,7 +647,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -663,7 +663,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -679,7 +679,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -695,7 +695,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -711,21 +711,21 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "23B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "23C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
@@ -741,7 +741,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -757,7 +757,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -773,7 +773,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -789,7 +789,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -805,7 +805,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -821,7 +821,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -837,7 +837,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -853,7 +853,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -869,7 +869,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -885,21 +885,21 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "25B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "25C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
@@ -915,7 +915,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -931,7 +931,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -947,7 +947,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -963,7 +963,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -979,7 +979,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -995,7 +995,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1011,7 +1011,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1027,7 +1027,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1043,7 +1043,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1059,21 +1059,21 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "27B",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "27C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
@@ -1089,7 +1089,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1105,7 +1105,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1121,7 +1121,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1137,7 +1137,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1153,7 +1153,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1169,14 +1169,14 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "28D",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
@@ -1192,7 +1192,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1208,7 +1208,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1224,7 +1224,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1240,7 +1240,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1256,7 +1256,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1272,7 +1272,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1288,7 +1288,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1304,7 +1304,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1320,7 +1320,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1336,7 +1336,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1352,7 +1352,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1368,7 +1368,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1384,7 +1384,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1400,7 +1400,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1416,7 +1416,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1432,7 +1432,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1448,7 +1448,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1464,7 +1464,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1480,7 +1480,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1496,7 +1496,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1512,7 +1512,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1528,7 +1528,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1544,7 +1544,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1560,7 +1560,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1576,7 +1576,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1592,7 +1592,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1608,7 +1608,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1624,7 +1624,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1640,7 +1640,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1656,7 +1656,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1672,7 +1672,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1688,7 +1688,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1704,7 +1704,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1720,7 +1720,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1736,7 +1736,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1752,7 +1752,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1768,7 +1768,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1784,7 +1784,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1800,7 +1800,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1816,7 +1816,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1832,7 +1832,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1848,7 +1848,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1864,7 +1864,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1880,7 +1880,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1896,7 +1896,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1912,7 +1912,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1928,7 +1928,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1944,7 +1944,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1960,7 +1960,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1976,7 +1976,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -1992,7 +1992,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -2008,7 +2008,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -2024,7 +2024,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -2040,7 +2040,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -2056,7 +2056,7 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
@@ -2072,14 +2072,14 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "39A",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
@@ -2095,35 +2095,35 @@
                     "currency": "USD"
                 }
             },
-            "availability": true,
+            "available": true,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "39C",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "39D",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "39E",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         },
         {
             "cabin": "economy",
             "number": "39F",
             "price": null,
-            "availability": false,
+            "available": false,
             "type": "Seat"
         }
     ],
