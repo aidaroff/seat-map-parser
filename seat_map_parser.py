@@ -75,7 +75,7 @@ def _parse_seat_map_details(seat_map_details: ET.Element) -> dict:
                 "cabin": cabin_type.lower() if cabin_type is not None else None,
                 "number": _get_attr_value_in_child_tag(parent_tag=seat, child_tag_str="Summary", attr="SeatNumber"),
                 "price": _get_seat_pricing(seat),
-                "availability": True if availability == "true" else False,
+                "available": True if availability == "true" else False,
                 "type": _get_seat_type(features),
             }
             parsed_seats.append(parsed_seat)
