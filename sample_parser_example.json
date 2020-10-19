@@ -1,0 +1,2140 @@
+{
+    "seats": [
+        {
+            "cabin": "first",
+            "number": "1A",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "first",
+            "number": "1B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "first",
+            "number": "1E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "first",
+            "number": "1F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "first",
+            "number": "2A",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "first",
+            "number": "2B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "first",
+            "number": "2E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "first",
+            "number": "2F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "7A",
+            "price": null,
+            "availability": false,
+            "type": "Bathroom"
+        },
+        {
+            "cabin": "economy",
+            "number": "7B",
+            "price": null,
+            "availability": false,
+            "type": "Bathroom"
+        },
+        {
+            "cabin": "economy",
+            "number": "7C",
+            "price": null,
+            "availability": false,
+            "type": "Bathroom"
+        },
+        {
+            "cabin": "economy",
+            "number": "7D",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "7E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "7F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "8A",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "8B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "8C",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "8D",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "8E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "8F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "9A",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "9B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "9C",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "9D",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "9E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "9F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "10A",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "10B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "10C",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "10D",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "10E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "10F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "11A",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "11B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "11C",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "11D",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "11E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "11F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "12A",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "12B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "12C",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "12D",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "12E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "12F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "14A",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "14B",
+            "price": {
+                "fee": {
+                    "amount": "2600",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "14C",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "14D",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "14E",
+            "price": {
+                "fee": {
+                    "amount": "2600",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "14F",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "15A",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "15B",
+            "price": {
+                "fee": {
+                    "amount": "2600",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "15C",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "15D",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "15E",
+            "price": {
+                "fee": {
+                    "amount": "2600",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "15F",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "20A",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "20B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "20C",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "20D",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "20E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "20F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "21A",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "21B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "21C",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "21D",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "21E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "21F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "22A",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "22B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "22C",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "22D",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "22E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "22F",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "23A",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "23B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "23C",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "23D",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "23E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "23F",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "24A",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "24B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "24C",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "24D",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "24E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "24F",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "25A",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "25B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "25C",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "25D",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "25E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "25F",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "26A",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "26B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "26C",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "26D",
+            "price": {
+                "fee": {
+                    "amount": "4200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "26E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "26F",
+            "price": {
+                "fee": {
+                    "amount": "2700",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "27A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "27B",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "27C",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "27D",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "27E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "27F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "28A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "28B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "28C",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "28D",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "28E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "28F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "29A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "29B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "29C",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "29D",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "29E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "29F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "30A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "30B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "30C",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "30D",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "30E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "30F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "31A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "31B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "31C",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "31D",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "31E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "31F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "32A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "32B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "32C",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "32D",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "32E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "32F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "34A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "34B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "34C",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "34D",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "34E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "34F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "35A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "35B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "35C",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "35D",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "35E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "35F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "36A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "36B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "36C",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "36D",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "36E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "36F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "37A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "37B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "37C",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "37D",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "37E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "37F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "38A",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "38B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "38C",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "38D",
+            "price": {
+                "fee": {
+                    "amount": "1800",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "38E",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "38F",
+            "price": {
+                "fee": {
+                    "amount": "1300",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "39A",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "39B",
+            "price": {
+                "fee": {
+                    "amount": "1200",
+                    "currency": "USD"
+                },
+                "taxes": {
+                    "amount": "0",
+                    "currency": "USD"
+                }
+            },
+            "availability": true,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "39C",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "39D",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "39E",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        },
+        {
+            "cabin": "economy",
+            "number": "39F",
+            "price": null,
+            "availability": false,
+            "type": "Seat"
+        }
+    ],
+    "segment": {
+        "departure": {
+            "airport": "LAS",
+            "datetime": "2020-11-22T15:30:00"
+        },
+        "arrival": {
+            "airport": "IAH"
+        },
+        "equipment": "739"
+    }
+}
